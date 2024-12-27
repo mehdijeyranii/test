@@ -1,1 +1,2 @@
 Test message in master branch
+Insert another message in master branch
